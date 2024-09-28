@@ -47,7 +47,7 @@ This application monitors the graphics processing units (GPUs) of the local mach
 
 5. Start the server:
    ```bash
-   npm start
+   node server.js
    ```
 
 ### Client Installation
